@@ -9,7 +9,8 @@ def main():
   f.close()
 
   #print(quotes[0])
-  print(quotes[rnd])
+  print(quotes[14])
+  print(quotes[0])
 
 if __name__== "__main__":
   main()
